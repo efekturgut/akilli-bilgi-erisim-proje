@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="SearchEngine.API/SearchEngine.API.csproj" />
+  <Project Path="SearchEngine.Business/SearchEngine.Business.csproj" />
+  <Project Path="SearchEngine.Core/SearchEngine.Core.csproj" />
+  <Project Path="SearchEngine.DataAccess/SearchEngine.DataAccess.csproj" />
+  <Project Path="SearchEngine.Tests/SearchEngine.Tests.csproj" />
+</Solution>
