@@ -1,0 +1,17 @@
+# .NET
+bin/
+obj/
+TestResults/
+.vs/
+*.user
+*.suo
+
+# Frontend
+node_modules/
+dist/
+coverage/
+
+# Local environment
+.env
+.env.*
+!.env.example
