@@ -1,0 +1,1 @@
+# akilli-bilgi-erisim-proje
